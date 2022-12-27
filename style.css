@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+  }
+  nav{
+    height: 50px;
+    padding: 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: aliceblue;
+    font-family:monospace;
+  }
+  nav ul{
+    display: flex;
+  }
+  nav ul li{
+    list-style: none;
+    padding: 0px 20px;
+    font-family: cursive;
+  }
+  button{
+    display:inline-flex;
+    background-color:crimson;
+    color: aliceblue;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
